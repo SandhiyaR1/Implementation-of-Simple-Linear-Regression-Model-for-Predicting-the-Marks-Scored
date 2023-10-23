@@ -70,11 +70,34 @@ plt.show()
 
 ```
 ## Output:
+### DF.HEAD()
+![image](https://github.com/SandhiyaR1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497571/317b36cd-bdeb-4caa-b66b-a1d5b4f1c44b)
+
+### DF.TAIL()
+![image](https://github.com/SandhiyaR1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497571/5657fbe1-b98e-4838-9855-b8809af4aba2)
+
+### X VALUES
+![image](https://github.com/SandhiyaR1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497571/5cf6eac7-9b71-4358-9732-dcc0f3e856ff)
+
+### Y VALUES
+![image](https://github.com/SandhiyaR1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497571/b1ccbeef-e935-433f-9f18-4f3912e5b605)
+
+### ARRAY OF Y PREDICTION
+
+![image](https://github.com/SandhiyaR1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497571/5b1eb4af-68fd-4530-a9c9-59f799f1befa)
+
+### ARRAY OF Y TEST
+![image](https://github.com/SandhiyaR1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497571/60816dbe-0442-441e-960a-e50e56bbcd4e)
+
 ### TRAINING SET
 ![image](https://github.com/SandhiyaR1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497571/8e9bcfca-9a88-479b-b772-05f8efc7829d)
 ### TESTING SET
 
 ![image](https://github.com/SandhiyaR1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497571/1ba0c0f7-b89f-4bcf-9103-d7fd3993c2ec)
+
+### MEAN SQUARE ERROR, MEAN ABSOLUTE ERROR AND RMSE
+![image](https://github.com/SandhiyaR1/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497571/f750da60-89df-4459-ac05-732303189c50)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
